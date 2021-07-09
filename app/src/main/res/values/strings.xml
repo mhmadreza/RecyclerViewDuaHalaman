@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RecyclerViewSederhana</string>
+    <string name="label_list_item_data">LIST ITEM DATA</string>
+</resources>
